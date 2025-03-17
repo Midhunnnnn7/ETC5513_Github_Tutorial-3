@@ -1,1 +1,1 @@
-# ETC5513_Github_Tutorial-3
+#This repository is an example about how to integrate GitHub with RStudio.
